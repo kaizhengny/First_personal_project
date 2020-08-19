@@ -9,7 +9,7 @@ Starting my first personal after getting two Udacity Nano Degrees. I feel it's t
 |3| Backend and Frontend buidling||Aug 28|Not started||
 |4|	Go-Live||Aug 30|Not started||
 
-##Log
+### Log
 
 * 20/08/18: Create the project repository
 
