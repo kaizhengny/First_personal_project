@@ -1,4 +1,5 @@
-# First_personal_project
+# Ultimate Productivity Web APP
+**First_personal_project**
 
 Starting my first personal after getting two Udacity Nano Degrees. I feel it's time to put what I learnt in practice and finally connect the real world with the codes.
 
