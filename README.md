@@ -12,5 +12,12 @@ Starting my first personal after getting two Udacity Nano Degrees. I feel it's t
 ### Log
 
 * 20/08/18: Create the project repository
+* 20/08/19: 
+  * 1. Decide to use Flask/Postgres SQL/Bootstrap for the project
+  * 2. The project is to build a productivity tool with working session timer, to-do list, calendar
+  * 3. Will use goolge calendar API for the calendar part and also read/write data from the calendar to other parts of the app
+  * 4. Watched some tutorial videos on Bootstrap
+  * 5. Use 3rd party account to log in 
+  * 6. 08/20 will be focusing on product/features desgin
 
 
