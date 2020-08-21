@@ -22,3 +22,11 @@ Starting my first personal after getting two Udacity Nano Degrees. I feel it's t
   * 6. 08/20 will be focusing on product/features desgin
 
 
+* 20/08/20:
+  Feature design:
+  * Main features: Calendar, to-do list/project management and working sessions
+  * Third party log-in/Google account log-in
+  * Calendar will be mainly based on Google calendar API, calendar events/to-do could be exported to to-do sections and also could be CRUD from to-do functions and working session functions
+  * To-do list/project management could group and categorize to-do items to form a project. Need to highlight current to-do items
+  * Working session could be allocated to different to-do items or projects to track time spent on the item/project
+  
