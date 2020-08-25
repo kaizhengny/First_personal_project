@@ -31,4 +31,6 @@ Starting my first personal after getting two Udacity Nano Degrees. I feel it's t
   * To-do list/project management to generate project calendar
   * Working session could be allocated to different to-do items or projects to track time spent on the item/project
   
+* 20/08/24:
+  
   
